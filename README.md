@@ -5,7 +5,7 @@
 
 ## Contributing
 
-See [the contribution guide](CONTRIBUTING.md)
+Please direct all PRs and Issues to the main [Kickflip Repo](https://github.com/KickflipCli/kickflip-src).
 
 ## License
 
